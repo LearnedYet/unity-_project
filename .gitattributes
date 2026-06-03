@@ -1,0 +1,25 @@
+* text=auto
+*.cs text diff=csharp
+*.shader text
+*.shadergraph text
+*.asmdef text
+*.asmref text
+*.json text
+*.asset text
+*.unity text
+*.prefab text
+*.meta text
+*.mat text
+*.controller text
+*.overrideController text
+*.anim text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.fbx binary
+*.exr binary
+*.ttf binary
+*.ncm binary
+*.zip binary
+*.unitypackage binary
